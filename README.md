@@ -5,13 +5,14 @@
 
 ---
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Okchun-Yee&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Okchun-Yee"
-  width="600"
-  height="300"
-/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Okchun-Yee&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Okchun-Yee?pet-id=725594530100390020"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 ## Stack
 <div>
