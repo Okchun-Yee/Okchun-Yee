@@ -21,11 +21,18 @@
   </p>
 </div> 
 
-## 📚 My Langs & Competitive Programming
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okchun-Yee&layout=compact)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 이미지 사이 간격 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haj3158)](https://solved.ac/haj3158/)
+## 📚 My Github Stats & Competitive Programming
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Okchun-Yee&show_icons=true&theme=github_dark&count_private=true" 
+       alt= "GitHub stats" 
+       height="160"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- 이미지 사이 간격 -->
+  <a href="https://solved.ac/haj3158/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haj3158" 
+         alt="Solved.ac Profile" 
+         height="160"/>
+  </a>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Okchun-Yee&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
