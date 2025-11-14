@@ -1,5 +1,6 @@
 # 🐼 옥춘예
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=F741CD&center=true&vCenter=true&width=500&height=70&lines=Life+is+a+game+made+for+everyone+;and+love+is+the+prize)](https://git.io/typing-svg)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Okchun-Yee&utm_content=line">
   <img
@@ -35,6 +36,7 @@
          height="160"/>
   </a>
 </div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Okchun-Yee&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
