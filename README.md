@@ -1,6 +1,6 @@
 # 🐼 옥춘예
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=F741CD&center=true&vCenter=true&width=500&height=70&lines=Hello!;God+bless+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=F741CD&vCenter=true&width=700&height=80&lines=Hello!;God+bless+you!" alt="Typing SVG" /></a>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Okchun-Yee&utm_content=line">
   <img
