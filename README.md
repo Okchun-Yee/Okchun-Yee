@@ -27,7 +27,7 @@
 
 ## 📚 My Github Stats & Competitive Programming
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Okchun-Yee&show_icons=true&theme=github_dark&count_private=true" 
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=Okchun-Yee&show_icons=true&theme=github_dark&count_private=true" 
        alt= "GitHub stats" 
        height="160"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- 이미지 사이 간격 -->
