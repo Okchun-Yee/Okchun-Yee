@@ -2,12 +2,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=F741CD&vCenter=true&width=700&height=80&lines=Hello!;God+bless+you!" alt="Typing SVG" /></a>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Okchun-Yee&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Okchun-Yee?pet-id=725594530100390020"
-    width="700"
-    height="160"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Okchun-Yee&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Okchun-Yee"
+  width="600"
+  height="300"
+/>
 </a>
   
   
