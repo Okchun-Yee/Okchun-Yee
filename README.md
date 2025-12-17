@@ -25,10 +25,7 @@
   </p>
 </div> 
 
-## 💚 My Velog
-
-
-## 📚 Competitive Programming
+## 📚 Whoami
 <div align="left">
   <!-- Solved.ac -->
   <a href="https://solved.ac/haj3158/">
