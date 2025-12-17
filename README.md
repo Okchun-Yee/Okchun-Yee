@@ -26,26 +26,25 @@
 </div> 
 
 ## 💚 My Velog
-<div align="center">
-    <img src="https://velog-readme-stats.vercel.app/api?name=OkChun-Yee's 🥯Jotter" width=40% />
-</div>
-<div align="center">
-    👉🏻 <a href="https://velog.io/@Okchun-Yee/posts">velog 바로가기</a>
-</div>
+
 
 ## 📚 Competitive Programming
 <div align="left">
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=Okchun-Yee&show_icons=true&theme=github_dark&count_private=true" 
-       alt= "GitHub stats" 
-       height="160"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- 이미지 사이 간격 -->
+  <!-- Solved.ac -->
   <a href="https://solved.ac/haj3158/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haj3158" 
-         alt="Solved.ac Profile" 
-         height="160"/>
+    <img
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haj3158"
+      alt="Solved.ac Profile"
+      height="120"
+    />
   </a>
-</div><br>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Okchun-Yee&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Velog (image link) -->
+  <a href="https://velog.io/@haj3158/posts">
+    <img
+      src="https://velog-readme-stats.vercel.app/api?name=haj3158"
+      width="40%"
+      alt="Velog stats"
+    />
+  </a>
+</div>
