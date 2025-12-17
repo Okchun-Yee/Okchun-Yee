@@ -25,7 +25,15 @@
   </p>
 </div> 
 
-## 📚 My Github Stats & Competitive Programming
+## 💚 My Velog
+<div align="center">
+    <img src="https://velog-readme-stats.vercel.app/api?name=OkChun-Yee's 🥯Jotter" width=40% />
+</div>
+<div align="center">
+    👉🏻 <a href="https://velog.io/@Okchun-Yee/posts">velog 바로가기</a>
+</div>
+
+## 📚 Competitive Programming
 <div align="left">
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Okchun-Yee&show_icons=true&theme=github_dark&count_private=true" 
        alt= "GitHub stats" 
@@ -36,7 +44,7 @@
          alt="Solved.ac Profile" 
          height="160"/>
   </a>
-</div>
+</div><br>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Okchun-Yee&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
