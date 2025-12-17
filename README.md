@@ -35,7 +35,7 @@
     <img
       src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haj3158"
       alt="Solved.ac Profile"
-      height="120"
+      height="140"
     />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@
   <a href="https://velog.io/@haj3158/posts">
     <img
       src="https://velog-readme-stats.vercel.app/api?name=haj3158"
-      width="40%"
+      width="50%"
       alt="Velog stats"
     />
   </a>
