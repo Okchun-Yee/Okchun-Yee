@@ -25,7 +25,7 @@
   </p>
 </div> 
 
-## 📚 Whoami
+## 📚 SNS
 <div align="left">
   <!-- Solved.ac -->
   <a href="https://solved.ac/haj3158/">
