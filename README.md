@@ -18,7 +18,7 @@
 <div>
   <p align="Left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,cpp,c" /><br>
+      <img src="https://skillicons.dev/icons?i=cs,cpp" /><br>
       <h3>Tools</h3>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,notion" />
     </a>
