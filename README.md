@@ -18,14 +18,17 @@
 ## 🛠️ My Stack
 <h3>Stack</h3>
 <div>
-  <p align="Left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,cpp" /><br>
-      <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,notion" />
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=cs,cpp" /><br>
+    <!-- Git, GitHub, VSCode, Unity (일반 아이콘) -->
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,unity" />
+    <!-- Notion만 링크로 감싸기 -->
+    <a href="https://glow-ferryboat-c3f.notion.site/Project-T-229929d966f480439b50ec53419537e1" target="_blank">
+      <img src="https://skillicons.dev/icons?i=notion" />
     </a>
   </p>
-</div> 
+</div>
+
 
 ## 📚 SNS
 <div align="left">
