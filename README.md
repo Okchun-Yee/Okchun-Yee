@@ -23,7 +23,7 @@
     <!-- Git, GitHub, VSCode, Unity (일반 아이콘) -->
     <img src="https://skillicons.dev/icons?i=git,github,vscode,unity" />
     <!-- Notion만 링크로 감싸기 -->
-    <a href="https://glow-ferryboat-c3f.notion.site/2e0929d966f480a58c66d4a52d860356?v=2e0929d966f48084a974000c253b9695&pvs=74" target="_blank">
+    <a href="[notion](https://glow-ferryboat-c3f.notion.site/2e1929d966f4805d8d2dff67d07f8b1b)" target="_blank">
       <img src="https://skillicons.dev/icons?i=notion" />
     </a>
   </p>
