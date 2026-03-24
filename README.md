@@ -21,7 +21,7 @@
   <p align="left">
     <img src="https://skillicons.dev/icons?i=cs,cpp" /><br>
     <!-- Git, GitHub, VSCode, Unity (일반 아이콘) -->
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,unity" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,unreal" />
     <!-- Notion만 링크로 감싸기 -->
     <a href="https://glow-ferryboat-c3f.notion.site/2e1929d966f4805d8d2dff67d07f8b1b" target="_blank">
       <img src="https://skillicons.dev/icons?i=notion" />
